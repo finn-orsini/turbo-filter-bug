@@ -3,6 +3,6 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    "build": "echo 'Build Foo Baz.'"
+    "build": "echo 'Build Foo Baz'"
   }
 }
