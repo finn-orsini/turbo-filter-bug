@@ -1,0 +1,8 @@
+{
+  "name": "foo-baz",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "echo 'Build Foo Baz.'"
+  }
+}

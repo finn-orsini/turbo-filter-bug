@@ -1,0 +1,8 @@
+{
+  "name": "bar",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "echo 'Build Bar.'"
+  }
+}
